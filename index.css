@@ -1,0 +1,42 @@
+body{
+    background: black;
+    color: white;
+    text-align: center;
+}
+
+.main{
+    color: #000;
+    background-color: rgb(255, 255, 255);
+}
+
+.container{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    margin-bottom: 5rem;
+}
+
+.section{
+    height: 100px;
+    text-align: center;
+}
+.footer{
+    margin-top: 2rem;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
